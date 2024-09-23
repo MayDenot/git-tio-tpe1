@@ -1,0 +1,1 @@
+Revisando los diagramas técnicos y documentos de diseño realizados por los desarrolladores.
