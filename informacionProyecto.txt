@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Información proyecto 
+=======
+Modificación líder y QAytesting
+>>>>>>> lider
