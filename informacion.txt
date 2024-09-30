@@ -1,1 +1,5 @@
-Información Backend
+<<<<<<< HEAD
+
+=======
+Actualización frontend y backend
+>>>>>>> frontend
