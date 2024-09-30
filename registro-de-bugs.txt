@@ -1,0 +1,1 @@
+Nuevo reporte de bugs, frontend y backend
